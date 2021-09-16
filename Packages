@@ -18,8 +18,8 @@ Section: Tweaks
 Maintainer: Triska <TriskaYT@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/BioProtect Crack.deb
-Size: 854
+Filename: ./debs/com.triska.biolocker.deb
+Size: 204458
 MD5sum: fc895662cf624d12f65a176b04af87f0
 Description: BioProtect Cracked.
 Name: BioProtect (iOS 12/13/14)
