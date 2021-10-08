@@ -1,16 +1,14 @@
-Package: com.triska.jellyfish
-Version: 2.0.0-1
+Package: com.triska.iH8Labels
+Name: iH8Labels
+Version: 1.3
 Section: Tweaks
-Maintainer: Triska <TriskaYT@gmail.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.triska.jellyfish.deb
+Author: Triska
+Maintainer: Triska
+Filename: ./debs/com.triska.iH8Labels_1.3_iphoneos-arm.deb
 Size: 854
-MD5sum: 7ac6eb33d4c4a96346aec7559f291050
-Description: JellyFish Cracked.
-Name: JellyFish
-Author: Triska <triskayt@gmail.com>
-Depiction: https://Triska.triskayt.repl.co
+MD5sum: fbe1a2854e697a93efb0ef281394d5f2
+Description: A simple tweak that hides app labels.
 
 Package: com.triska.bigsurcenter
 Version: 2.0.0-1
